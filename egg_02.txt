@@ -1,2 +1,21 @@
 ¡¿Pregunta como hacen el main?! 
 TENGO LA DUDA JSJJSJSJ
+
+Respuesta de Celeste 
+pasos para subir cosas 
+
+1 - boton derecho carpeta iniciar git bash
+2 - git init
+3- git remote add origin <Acá va el enlace de la carpeta repositorio. Que NO TENGA ARCHIVOS o da error>
+4 - git add . <rastreo de lo que tiene la carpeta>
+5 - git commit -m "comentario" <acá va el cambio que se va a cargar>
+6 - git push origin main <esto es para que elija la rama>
+7 - git status 
+
+
+
+git branch -chequeo la rama
+git checkout main cambiar de rama 
+
+Pero aun falta de Chequear el MAIN 
+HAY QUE VER TUTORIALES 
